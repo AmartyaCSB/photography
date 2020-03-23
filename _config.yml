@@ -1,0 +1,22 @@
+# Base configs
+baseurl: "https://AmartyaCSB.github.io/photography"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "Photography by Amartya"
+subtitle: "Coder who clicks"
+author: "Amartya"
+header:
+ title: "Photography"
+ subtitle: "by Amartya"
+footer:
+ name: "Yo, My name is Amartya"
+ bio: "I am an AI Scientist working in an Healthcare startup in India. Apart from working in the field of Technology and Healthcare, I love clicking Photos. Being a Photography Enthusiast, I love travelling to places and clicking anything that interests me! Hope you have a wonderful time browsing through the images"
+
+web_design: "AM"
+social_urls:
+  facebook: "https://www.facebook.com/amartya7"
+  instagram: "https://www.instagram.com/amartya.mandal"
+  linkedin: "https://in.linkedin.com/in/mandalamartya"
+  github: "https://www.github.com/AmartyaCSB"
