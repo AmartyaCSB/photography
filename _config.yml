@@ -2,6 +2,7 @@
 baseurl: "https://AmartyaCSB.github.io/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-161740824-1"
 
 # UI configs
 title: "Photography by Amartya"
